@@ -1,4 +1,4 @@
-# This code creates box plots with number of species (y axis) and cluster (x axis)
+## This code creates box plots with number of species (y axis) and cluster (x axis)
 
 #library(rgdal)
 library(raster)
